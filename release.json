@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0-dev",
+  "modId": "fabricloadingframework",
+  "minecraftTarget": "1.20.1–26.3",
+  "loaderSdkBaselines": [
+    "0.14.21",
+    "0.15.11",
+    "0.16.14",
+    "0.17.3",
+    "0.18.4",
+    "0.19.5"
+  ],
+  "status": "development; headless checks passed; PCL validation pending user approval"
+}

@@ -1,0 +1,3 @@
+Fabric Loading Framework
+Media, audio clock, theme, resource-path and pack-title code derived from the MIT-licensed Forge Loading Framework source snapshot.
+This project contains its own source copies and does not need the Forge project or its installed files to build or run.

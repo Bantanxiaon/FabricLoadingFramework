@@ -1,0 +1,87 @@
+[
+  {
+    "minecraft": "1.20.1",
+    "metadata": "https://piston-meta.mojang.com/v1/packages/a5cf661d31d9dfcd3d1645be80f43954f63f63b0/1.20.1.json",
+    "java": {
+      "component": "java-runtime-gamma",
+      "majorVersion": 17
+    },
+    "jna": [
+      "net.java.dev.jna:jna-platform:5.12.1",
+      "net.java.dev.jna:jna:5.12.1"
+    ],
+    "client": {
+      "sha1": "0c3ec587af28e5a785c0b4a7b8a30f9a8f78f838",
+      "size": 23028853,
+      "url": "https://piston-data.mojang.com/v1/objects/0c3ec587af28e5a785c0b4a7b8a30f9a8f78f838/client.jar"
+    }
+  },
+  {
+    "minecraft": "1.20.5",
+    "metadata": "https://piston-meta.mojang.com/v1/packages/01f5f81adb74fc36f378c49cf0d6b70a60b139bb/1.20.5.json",
+    "java": {
+      "component": "java-runtime-delta",
+      "majorVersion": 21
+    },
+    "jna": [
+      "net.java.dev.jna:jna-platform:5.14.0",
+      "net.java.dev.jna:jna:5.14.0"
+    ],
+    "client": {
+      "sha1": "c6b92b2374a629f20802bb284f98a4ee790e950a",
+      "size": 26565623,
+      "url": "https://piston-data.mojang.com/v1/objects/c6b92b2374a629f20802bb284f98a4ee790e950a/client.jar"
+    }
+  },
+  {
+    "minecraft": "26.1",
+    "metadata": "https://piston-meta.mojang.com/v1/packages/8667c5278895a6ae31e05ab99ba044ef33fca092/26.1.json",
+    "java": {
+      "component": "java-runtime-epsilon",
+      "majorVersion": 25
+    },
+    "jna": [
+      "net.java.dev.jna:jna-platform:5.17.0",
+      "net.java.dev.jna:jna:5.17.0"
+    ],
+    "client": {
+      "sha1": "191771837687b766537a8c4607cb6fad79c533a1",
+      "size": 38113398,
+      "url": "https://piston-data.mojang.com/v1/objects/191771837687b766537a8c4607cb6fad79c533a1/client.jar"
+    }
+  },
+  {
+    "minecraft": "26.2",
+    "metadata": "https://piston-meta.mojang.com/v1/packages/91ef51b7d36ca092c5c02aba42f0f40c7cc1db84/26.2.json",
+    "java": {
+      "component": "java-runtime-epsilon",
+      "majorVersion": 25
+    },
+    "jna": [
+      "net.java.dev.jna:jna-platform:5.17.0",
+      "net.java.dev.jna:jna:5.17.0"
+    ],
+    "client": {
+      "sha1": "2dc72797acbc1b63fc16a11c4ac393605f453754",
+      "size": 39193383,
+      "url": "https://piston-data.mojang.com/v1/objects/2dc72797acbc1b63fc16a11c4ac393605f453754/client.jar"
+    }
+  },
+  {
+    "minecraft": "26.3",
+    "metadata": "https://piston-meta.mojang.com/v1/packages/11f1aefe473eefba0af62e3286c33b692807b2eb/26.3.json",
+    "java": {
+      "component": "java-runtime-epsilon",
+      "majorVersion": 25
+    },
+    "jna": [
+      "net.java.dev.jna:jna-platform:5.17.0",
+      "net.java.dev.jna:jna:5.17.0"
+    ],
+    "client": {
+      "sha1": "e877b6a07acd633fb3bb475002175cec036e7b87",
+      "size": 41483720,
+      "url": "https://piston-data.mojang.com/v1/objects/e877b6a07acd633fb3bb475002175cec036e7b87/client.jar"
+    }
+  }
+]

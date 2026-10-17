@@ -1,0 +1,8 @@
+dependencies/
+work/
+audit/
+dist/
+__pycache__/
+*.pyc
+*.log
+.env

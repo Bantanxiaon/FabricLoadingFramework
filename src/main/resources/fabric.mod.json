@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "fabricloadingframework",
+  "version": "0.1.0-dev",
+  "name": "Fabric Loading Framework",
+  "description": "Client startup video and loading details. Development build, pending PCL validation.",
+  "environment": "client",
+  "entrypoints": {
+    "preLaunch": [
+      "fabric.loading.fabric.PreLaunch"
+    ]
+  },
+  "mixins": [
+    {
+      "config": "fabric-loading.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "minecraft": ">=1.20.1 <26.4",
+    "java": ">=17"
+  },
+  "license": "PolyForm-Noncommercial-1.0.0"
+}
